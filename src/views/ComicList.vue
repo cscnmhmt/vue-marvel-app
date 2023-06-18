@@ -148,7 +148,9 @@ export default defineComponent({
     }
   }
 }
-
+.authors {
+  display: flex;
+}
 .no-author {
   margin-bottom: 10px;
   align-items: baseline;
