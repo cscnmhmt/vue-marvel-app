@@ -11,8 +11,8 @@ export default {};
 <style scoped>
 h1 {
   text-align: center;
-  margin-bottom: 50px;
   background-color: #f45050;
   padding-block: 20px;
+  text-transform: uppercase;
 }
 </style>
